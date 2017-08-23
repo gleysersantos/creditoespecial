@@ -1,4 +1,4 @@
 # creditoespecial
 Desafio feito pra empresa Dito
 
-Não consegui enviar pelo gmail, pois estava sendo bloqueado.
+Criar uma página HTML seguindo o layout do arquivo pdf.
